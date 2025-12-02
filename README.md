@@ -1,6 +1,35 @@
 # OpenEMRproject
 # OpenEMR Hospital Scheduling System -- End-to-End BA/PM Portfolio Project
 
+## 📁 Project Structure
+OpenEMRproject/
+│
+├── README.md
+├── docs/
+│   ├── BRD.md
+│   ├── FRD.md
+│   ├── SRS.md
+│   ├── Change_Request.md
+│   ├── Communication_Plan.md
+│   ├── Test_Cases/
+│   │   ├── SIT_Test_Cases.md
+│   │   └── UAT_Test_Cases.md
+│   ├── Diagrams/
+│   │   ├── BPMN.png
+│   │   └── Workflow.png
+│
+├── assets/
+│   ├── banner.png
+│   └── diagrams/
+│       └── workflow_diagram.png
+│
+└── pages/
+    ├── index.md
+    ├── brd.md
+    ├── frd.md
+    ├── workflows.md
+    └── testing.md
+
 ## 1. Project Overview
 
 The OpenEMR Scheduling System project modernizes a hospital's
