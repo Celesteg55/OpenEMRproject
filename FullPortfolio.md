@@ -2,7 +2,7 @@ FULL END-TO-END PORTFOLIO PROJECT DELIVERABLES
 
 **Project:** OpenEMR Workflow Modernization  
 **Version:** Hybrid (BA + Technical Ops)  
-**Author:** Your Name  
+**Author:** Brenda Garza  
 
 ---
 
@@ -28,7 +28,7 @@ FULL END-TO-END PORTFOLIO PROJECT DELIVERABLES
 - Includes all modules: Scheduling, Digital Check-In, Vitals, Clinical Routing, Label Printing, RFID, Lab Workflow, Patient Portal  
 - User Stories linked to functional requirements  
 
-*Stored as:* `FRD.md`
+*Stored as:* `FRD_SRS.md`
 
 ---
 
@@ -38,7 +38,7 @@ FULL END-TO-END PORTFOLIO PROJECT DELIVERABLES
 - System Architecture Overview  
 - Data sources & APIs  
 - Integration points  
-- Stored as part of FRD or separately: `SRS.md`
+- Stored as part of FRD: `FRD_SRS.md`
 
 ---
 
@@ -54,8 +54,6 @@ FULL END-TO-END PORTFOLIO PROJECT DELIVERABLES
 
 3. **Patient Portal Updates:**  
    - Lab results ready → System pushes updates → Notification → Patient views results  
-
-*Instructions:* Build visually in Lucidchart, draw.io, or Gliffy, using the above text flows.
 
 ---
 
@@ -117,7 +115,6 @@ FULL END-TO-END PORTFOLIO PROJECT DELIVERABLES
 - **Velocity Chart:** Points completed per sprint  
 - **Gantt/Timeline:** Sprint dates, milestones, dependencies  
 
-*Instructions:* Can create in Excel, Google Sheets, or Power BI; embed screenshots in GitHub or link separately.
 
 ---
 
