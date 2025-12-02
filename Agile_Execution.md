@@ -1,6 +1,6 @@
 AGILE EXECUTION WORK PACKAGE
 
-**Project:** OpenEMR Workflow Modernization  
+**Project:** OpenEMR Patient Scheduling & Clinical Workflow Modernization  
 **Version:** Hybrid (BA + Technical Ops)  
 **Author:** Brenda Garza  
 
