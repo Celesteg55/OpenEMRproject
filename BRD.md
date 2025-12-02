@@ -1,7 +1,7 @@
 # 📄 Business Requirements Document (BRD)
 **Project:** OpenEMR Patient Scheduling & Clinical Workflow Modernization  
 **Version:** Hybrid (BA + Technical Workflow)  
-**Author:** Your Name  
+**Author:** Brenda Garza  
 **Date:** 2025
 
 ---
